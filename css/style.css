@@ -1,0 +1,36 @@
+.nav_flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    width: 50%;
+}
+
+.header_flex{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo__header{
+    height: 100px;
+    width: 100px;
+}
+
+li{
+    list-style: none;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.div_flex1{
+    display: flex;
+}
+
+.imgprimera{
+    height: 45vh;
+    padding-left: 10vh;
+}
